@@ -1,5 +1,5 @@
 # exercicioRemoto2
-![Design preview exercicioRemoto2](./README.md);
+![Design preview exercicioRemoto2](./resultadoParInpa.png);
 
 # Índice
 * Considere a quantidade de alunos presentes na sala,
